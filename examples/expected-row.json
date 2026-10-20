@@ -1,0 +1,8 @@
+{
+  "received_at": "2026-04-02T12:00:00Z",
+  "name": "Ada Lovelace",
+  "email": "ada@example.com",
+  "topic": "request",
+  "message": "Please add the status page for status.example.com, and send notes to ops@example.com.",
+  "company": "Example Labs"
+}
